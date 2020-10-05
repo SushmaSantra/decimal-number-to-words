@@ -6,12 +6,12 @@
     "repository": "",
     "main": "index.js",
     "keywords": [
-      "toWords",
-      "npm",
-      "package",
-      "decimal-numbers"
+        "toWords",
+        "npm",
+        "package",
+        "decimal-numbers"
     ],
     "dependencies": {
         "number-to-words": "1.2.4"
     }
-  }
+}
