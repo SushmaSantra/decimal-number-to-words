@@ -1,0 +1,14 @@
+{
+    "name": "decimal-number-to-words",
+    "version": "1.0.0",
+    "description": "Converts numbers including decimal values to words",
+    "license": "MIT",
+    "repository": "",
+    "main": "index.js",
+    "keywords": [
+      "toWords",
+      "npm",
+      "package",
+      "decimal-numbers"
+    ]
+  }
