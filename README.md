@@ -4,7 +4,7 @@ This Package is an implementaion of an existing package, number-to-words. It's p
 
 ## Install
 ```cmd
-npm install number-to-words 
+npm install decimal-number-to-words 
 ```
 
 ## How to use
