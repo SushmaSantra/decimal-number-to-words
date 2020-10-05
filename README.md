@@ -16,9 +16,9 @@ var convert = require('decimal-number-to-words');
 convert.toOrdinal(21); // => “21st”
 ```
 ##### toWords(number)
-> Converts an integer into words.
+> Converts a number into words.
 ```js 
-var convert = require('number-to-words');
+var convert = require('decimal-number-to-words');
 convert.toWords(13); // => “thirteen”
  
 // Decimal numbers:
@@ -33,6 +33,6 @@ convert.toWords(9007199254740992); // => “nine quadrillion, seven trillion, on
 ##### toWordsOrdinal(number)
 > Converts a number into ordinal words.
 ```js 
-var convert = require('number-to-words');
+var convert = require('decimal-number-to-words');
 convert.toWordsOrdinal(21); // => “twenty-first”
 ```
