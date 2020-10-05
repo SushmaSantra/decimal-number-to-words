@@ -10,5 +10,8 @@
       "npm",
       "package",
       "decimal-numbers"
-    ]
+    ],
+    "dependencies": {
+        "number-to-words": "1.2.4"
+    }
   }
